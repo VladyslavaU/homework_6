@@ -1,0 +1,60 @@
+table {
+    border-color: black;
+    border-style: solid;
+    border-spacing: 0;
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 400px;
+    height: 400px;
+}
+
+td {
+    border-style: solid;
+    text-align: center;
+    border-width: 6px;
+}
+
+.cell_11, .cell_193, .cell_43 {
+    background-color: gold;
+}
+
+.cell_203 {
+    background-color: blue;
+}
+
+.cell_163, .cell_195, .cell_231 {
+    background-color: black;
+}
+
+.cell_35, .cell_208 {
+    background-color: red;
+}
+
+.cell_193, .cell_110, .cell_107 {
+    width: 12.5%;
+}
+
+.cell_1{
+    height: 12.5%;
+}
+
+.cell_16{
+    width: 6.25%;
+}
+
+.cell_35 {
+    width: 100px;
+    height: 100px;
+}
+
+.cell_43, .cell_208 {
+    height: 50px;
+}
+
+.cell_163, .cell_199, .cell_231 {
+    height: 25px;
+}
+
+.cell_247 {
+    height: 6.25%;
+}
